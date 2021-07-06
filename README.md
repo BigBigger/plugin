@@ -2,7 +2,7 @@
 
 > 工具包、插件集
 
-### [/mock](./mock/README.md)
+### [/mock](./mockjs/README.md)
 
 模拟请求 & 模拟数据
 
