@@ -1,0 +1,29 @@
+{
+  "name": "@bigbigger/ali-oss-upload",
+  "version": "0.1.1",
+  "description": "vue 项目打包后自动上传阿里云oss",
+  "author": "BigBigger",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "ali-oss": "^6.15.2",
+    "chalk": "^4.1.1",
+    "globby": "^11.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigBigger/plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BigBigger/plugin/issues"
+  },
+  "homepage": "https://github.com/BigBigger/plugin/ali-oss#readme",
+  "keywords": [
+    "webpack",
+    "webpack-plugin",
+    "upload",
+    "aliyun",
+    "oss"
+  ],
+  "license": "MIT"
+}
