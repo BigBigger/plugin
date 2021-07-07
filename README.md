@@ -2,7 +2,16 @@
 
 > 工具包、插件集
 
-### [/mock](./mockjs/README.md)
+# package
+
+|           Package           | version |
+| :-------------------------: | :------ |
+| [@bigbigger/mock](./mockjs) | 0.1.1   |
+
+
+
+
+### [@bigbigger/mock](./mockjs#readme)
 
 模拟请求 & 模拟数据
 
@@ -12,8 +21,6 @@
   Mock.mock(rurl, async function( options ))
   Mock.mock(rurl, rtype, async function( options ))
   ```
-
-  
 
 - 支持自定义返回状态
 
